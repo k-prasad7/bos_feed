@@ -1,0 +1,55 @@
+.container {
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    color: #333;
+    font-size: 2em; /* Larger font size for the title */
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .th, .td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .th {
+    background-color: #f2f2f2;
+  }
+  
+  .link {
+    color: #1a0dab;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
+  /* Add different background colors for each type */
+  .type-Communication {
+    background-color: #dfffd6;
+  }
+  
+  .type-Hearing {
+    background-color: #d6f2ff;
+  }
+  
+  .type-Ordinance {
+    background-color: #fffbd6;
+  }
+  
+  .type-Resolution {
+    background-color: #f2d6ff;
+  }
+  
+  .type-Motion {
+    background-color: #ffe6d6;
+  }
+  
